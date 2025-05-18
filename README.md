@@ -103,9 +103,8 @@ This project provides an automated solution for retrieving real-time currency ex
 - Snowflake provides query history and usage monitoring
 - Check the Snowflake tables regularly to ensure data is being loaded correctly
 
-## License
 
-[MIT License](LICENSE)
+
 
 ## Contributing
 
